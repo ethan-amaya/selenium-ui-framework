@@ -12,9 +12,8 @@ It automates key user flows of the [SauceDemo](https://www.saucedemo.com/) web a
 - 🛒 Add-to-cart functionality  
 - 💳 Complete checkout flow (including order completion)  
 - 🧱 Page Object Model structure for reusability and maintainability  
-- 🧪 TestNG for test organization and assertions  
-- 🌐 ChromeDriver setup with browser configuration options
-
+- 🧪 TestNG for test organization and assertions
+  
 ---
 
 ## 🧩 Tech Stack
