@@ -2,7 +2,7 @@
 
 This project is a modular and maintainable UI automation framework built using **Selenium WebDriver**, **Java**, and **TestNG**, following the **Page Object Model (POM)** design pattern.  
 
-It automates key user flows of the [SauceDemo](https://www.saucedemo.com/) web application — a popular practice site for test automation.
+It automates key user flows of the [SauceDemo](https://www.saucedemo.com/) web application.
 
 ---
 
